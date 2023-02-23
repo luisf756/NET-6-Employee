@@ -15,7 +15,6 @@ namespace EmployService.Model
         public string Personal_Address { get; set; }
         public int Phone { get; set; }
         public DateTime Workin_Start_Date { get; set; }
-
         public string Picture { get; set; }
         public int Fk_Rol { get; set; }
         public string Rol_Description { get; set; }

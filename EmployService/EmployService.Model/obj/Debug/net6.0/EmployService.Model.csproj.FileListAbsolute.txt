@@ -10,3 +10,15 @@ D:\talleres de repaso\net core apid\ejercicios repaso\EmployService\EmployServic
 D:\talleres de repaso\net core apid\ejercicios repaso\EmployService\EmployService.Model\obj\Debug\net6.0\refint\EmployService.Model.dll
 D:\talleres de repaso\net core apid\ejercicios repaso\EmployService\EmployService.Model\obj\Debug\net6.0\EmployService.Model.pdb
 D:\talleres de repaso\net core apid\ejercicios repaso\EmployService\EmployService.Model\obj\Debug\net6.0\ref\EmployService.Model.dll
+D:\talleres de repaso\net core apid\ejercicios repaso\NET-6-Employee\EmployService\EmployService.Model\bin\Debug\net6.0\EmployService.Model.deps.json
+D:\talleres de repaso\net core apid\ejercicios repaso\NET-6-Employee\EmployService\EmployService.Model\bin\Debug\net6.0\EmployService.Model.dll
+D:\talleres de repaso\net core apid\ejercicios repaso\NET-6-Employee\EmployService\EmployService.Model\bin\Debug\net6.0\EmployService.Model.pdb
+D:\talleres de repaso\net core apid\ejercicios repaso\NET-6-Employee\EmployService\EmployService.Model\obj\Debug\net6.0\EmployService.Model.csproj.AssemblyReference.cache
+D:\talleres de repaso\net core apid\ejercicios repaso\NET-6-Employee\EmployService\EmployService.Model\obj\Debug\net6.0\EmployService.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\talleres de repaso\net core apid\ejercicios repaso\NET-6-Employee\EmployService\EmployService.Model\obj\Debug\net6.0\EmployService.Model.AssemblyInfoInputs.cache
+D:\talleres de repaso\net core apid\ejercicios repaso\NET-6-Employee\EmployService\EmployService.Model\obj\Debug\net6.0\EmployService.Model.AssemblyInfo.cs
+D:\talleres de repaso\net core apid\ejercicios repaso\NET-6-Employee\EmployService\EmployService.Model\obj\Debug\net6.0\EmployService.Model.csproj.CoreCompileInputs.cache
+D:\talleres de repaso\net core apid\ejercicios repaso\NET-6-Employee\EmployService\EmployService.Model\obj\Debug\net6.0\EmployService.Model.dll
+D:\talleres de repaso\net core apid\ejercicios repaso\NET-6-Employee\EmployService\EmployService.Model\obj\Debug\net6.0\refint\EmployService.Model.dll
+D:\talleres de repaso\net core apid\ejercicios repaso\NET-6-Employee\EmployService\EmployService.Model\obj\Debug\net6.0\EmployService.Model.pdb
+D:\talleres de repaso\net core apid\ejercicios repaso\NET-6-Employee\EmployService\EmployService.Model\obj\Debug\net6.0\ref\EmployService.Model.dll

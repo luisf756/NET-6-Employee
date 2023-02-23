@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EmployService.Model
 {
-    internal class SalaryHistory
+    public class SalaryHistory
     {
         public int Id_Salary_History { get; set; }
         public float Salary_Period { get; set; }

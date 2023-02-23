@@ -17,6 +17,7 @@ builder.Services.AddSingleton(mySQLConfiguration);
 //builder.Services.AddSingleton(new MySqlConnection(builder.Configuration.GetConnectionString("MySqlConneciton")));
 
 builder.Services.AddScoped<IEmployRepository, EmployeeRepository>();
+builder.Services.AddScoped<ISalaryHistoryRepository, SalaryHistoryRepository>();
 var app = builder.Build();
  
 // Configure the HTTP request pipeline.

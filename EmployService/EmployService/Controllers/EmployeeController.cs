@@ -16,19 +16,22 @@ namespace EmployService.Controllers
             _employRepository = employeeRepository;
         }
 
-        [HttpGet]
+        [HttpGet("getAll")]
+       // [Route("getAll")]
         public async Task<IActionResult> GetAllEmployees()
         {
             return Ok(await _employRepository.GetAllEmployees());  
         }
 
-        [HttpGet("{id}")]
+        [HttpGet("getDetails{id}")]
+       // [Route("getDetails")]
         public async Task<IActionResult> GetDetails(int id)
         {
             return Ok(await _employRepository.GetDetails(id));
         }
 
-        [HttpPost]
+        [HttpPost("create")]
+       // [Route("createEmp")]
         public async Task<IActionResult> CreateEmployee([FromBody] Employee employee)
         {
             if (employee == null)
@@ -43,7 +46,8 @@ namespace EmployService.Controllers
 
         }
         // se cambian para mira
-        [HttpPut]
+        [HttpPut("upDate")]
+      //  [Route("upDate")]
         public async Task<IActionResult> UpdateEmployee([FromBody] Employee employee)
         {
             if (employee == null)
@@ -57,6 +61,7 @@ namespace EmployService.Controllers
 
         }
         [HttpDelete]
+      //  [Route("deleteEmp")]
         public async Task<IActionResult> DeleteEmployee(int id)
         {
             await _employRepository.DeleteEmployee(new Employee { Emp_Id = id });
@@ -64,7 +69,8 @@ namespace EmployService.Controllers
             return NoContent();
         }
 
-        [HttpPost("{id}")]
+        [HttpPost("recalculate")]
+       // [Route("recalculateSal")]
         public async Task<IActionResult> RecalculateSalaryEmployee(int id)
         {
             return Ok(await _employRepository.RecalculateSalaryEmployee(id));

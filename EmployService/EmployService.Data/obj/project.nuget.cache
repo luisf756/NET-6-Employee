@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "respVIyFVeWjCB8nlusA/i140WjVFVFpwMq7uEh/ndS6zG6RFchOlA6n1Ntja9AYlzxpJk7YdFlo3mBVX0LiYA==",
+  "dgSpecHash": "/8nG0YN3r5vq/Iv1iDopUilRhJqYlVihzWNuyd/b9xN5bZ8jOtGOQhiFmLauOedSmATy0kITMbVli221Hqzz6Q==",
   "success": true,
-  "projectFilePath": "D:\\talleres de repaso\\net core apid\\ejercicios repaso\\EmployService\\EmployService.Data\\EmployService.Data.csproj",
+  "projectFilePath": "D:\\talleres de repaso\\net core apid\\ejercicios repaso\\NET-6-Employee\\EmployService\\EmployService.Data\\EmployService.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",

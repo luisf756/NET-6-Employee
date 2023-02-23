@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\talleres de repaso\\net core apid\\ejercicios repaso\\EmployService\\EmployService.Model\\EmployService.Model.csproj",
+      "projectUniqueName": "D:\\talleres de repaso\\net core apid\\ejercicios repaso\\NET-6-Employee\\EmployService\\EmployService.Model\\EmployService.Model.csproj",
       "projectName": "EmployService.Model",
-      "projectPath": "D:\\talleres de repaso\\net core apid\\ejercicios repaso\\EmployService\\EmployService.Model\\EmployService.Model.csproj",
+      "projectPath": "D:\\talleres de repaso\\net core apid\\ejercicios repaso\\NET-6-Employee\\EmployService\\EmployService.Model\\EmployService.Model.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "D:\\talleres de repaso\\net core apid\\ejercicios repaso\\EmployService\\EmployService.Model\\obj\\",
+      "outputPath": "D:\\talleres de repaso\\net core apid\\ejercicios repaso\\NET-6-Employee\\EmployService\\EmployService.Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

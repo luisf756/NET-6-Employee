@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TwnM/YcXbTx+3l152hxYDVMDTlAZl+Pie6KKtHdkVKga3PZ1kelNCUj4ecMEX7Wyayzw+tjOgMjkAW5BZ3O80A==",
+  "dgSpecHash": "P9itiGfxGf9M6xdga+hIqANkGoHy7XXa9rMvym5Qm/cc61sQsYpbCPDWS+lXP1JviZGbcYa4I2NRA6gFje/fnw==",
   "success": true,
-  "projectFilePath": "D:\\talleres de repaso\\net core apid\\ejercicios repaso\\EmployService\\EmployService.Model\\EmployService.Model.csproj",
+  "projectFilePath": "D:\\talleres de repaso\\net core apid\\ejercicios repaso\\NET-6-Employee\\EmployService\\EmployService.Model\\EmployService.Model.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

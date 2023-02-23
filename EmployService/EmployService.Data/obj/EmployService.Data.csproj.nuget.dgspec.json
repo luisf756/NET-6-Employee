@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\talleres de repaso\\net core apid\\ejercicios repaso\\EmployService\\EmployService.Data\\EmployService.Data.csproj": {}
+    "D:\\talleres de repaso\\net core apid\\ejercicios repaso\\NET-6-Employee\\EmployService\\EmployService.Data\\EmployService.Data.csproj": {}
   },
   "projects": {
-    "D:\\talleres de repaso\\net core apid\\ejercicios repaso\\EmployService\\EmployService.Data\\EmployService.Data.csproj": {
+    "D:\\talleres de repaso\\net core apid\\ejercicios repaso\\NET-6-Employee\\EmployService\\EmployService.Data\\EmployService.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\talleres de repaso\\net core apid\\ejercicios repaso\\EmployService\\EmployService.Data\\EmployService.Data.csproj",
+        "projectUniqueName": "D:\\talleres de repaso\\net core apid\\ejercicios repaso\\NET-6-Employee\\EmployService\\EmployService.Data\\EmployService.Data.csproj",
         "projectName": "EmployService.Data",
-        "projectPath": "D:\\talleres de repaso\\net core apid\\ejercicios repaso\\EmployService\\EmployService.Data\\EmployService.Data.csproj",
+        "projectPath": "D:\\talleres de repaso\\net core apid\\ejercicios repaso\\NET-6-Employee\\EmployService\\EmployService.Data\\EmployService.Data.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\talleres de repaso\\net core apid\\ejercicios repaso\\EmployService\\EmployService.Data\\obj\\",
+        "outputPath": "D:\\talleres de repaso\\net core apid\\ejercicios repaso\\NET-6-Employee\\EmployService\\EmployService.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\talleres de repaso\\net core apid\\ejercicios repaso\\EmployService\\EmployService.Model\\EmployService.Model.csproj": {
-                "projectPath": "D:\\talleres de repaso\\net core apid\\ejercicios repaso\\EmployService\\EmployService.Model\\EmployService.Model.csproj"
+              "D:\\talleres de repaso\\net core apid\\ejercicios repaso\\NET-6-Employee\\EmployService\\EmployService.Model\\EmployService.Model.csproj": {
+                "projectPath": "D:\\talleres de repaso\\net core apid\\ejercicios repaso\\NET-6-Employee\\EmployService\\EmployService.Model\\EmployService.Model.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "D:\\talleres de repaso\\net core apid\\ejercicios repaso\\EmployService\\EmployService.Model\\EmployService.Model.csproj": {
+    "D:\\talleres de repaso\\net core apid\\ejercicios repaso\\NET-6-Employee\\EmployService\\EmployService.Model\\EmployService.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\talleres de repaso\\net core apid\\ejercicios repaso\\EmployService\\EmployService.Model\\EmployService.Model.csproj",
+        "projectUniqueName": "D:\\talleres de repaso\\net core apid\\ejercicios repaso\\NET-6-Employee\\EmployService\\EmployService.Model\\EmployService.Model.csproj",
         "projectName": "EmployService.Model",
-        "projectPath": "D:\\talleres de repaso\\net core apid\\ejercicios repaso\\EmployService\\EmployService.Model\\EmployService.Model.csproj",
+        "projectPath": "D:\\talleres de repaso\\net core apid\\ejercicios repaso\\NET-6-Employee\\EmployService\\EmployService.Model\\EmployService.Model.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\talleres de repaso\\net core apid\\ejercicios repaso\\EmployService\\EmployService.Model\\obj\\",
+        "outputPath": "D:\\talleres de repaso\\net core apid\\ejercicios repaso\\NET-6-Employee\\EmployService\\EmployService.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
