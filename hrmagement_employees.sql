@@ -208,13 +208,10 @@ BEGIN
   inner join roles
   where roles.id_roles=employees.fk_rol and emp_id=sp_Emp_id;
   
-  Select date_salary_end 
-  into @date_salary_end
-  from salary_history
-	WHERE date_salary_end  = (
-    SELECT MAX(date_salary_end) 
-    FROM salary_history 
-	) and salary_history.fk_id_employee=sp_Emp_id;
+  SELECT MAX(date_salary_end)
+	INTO @date_salary_end
+	FROM salary_history 
+    where salary_history.fk_id_employee = sp_Emp_id;
   
   
   SELECT CURDATE() INTO today;
